@@ -1,11 +1,12 @@
 ## Summary
 
-I help organizations ship high-quality software faster by taking radical ownership, drawing out the best in my peers, and leveraging modern tools and practices. I work across the organizational stack advising leaders on strategy, engaging product stakeholders in decision-making, and pairing with engineers facing hard problems. Through this process, I actively seek to create connections between people, technologies, and ideas because the best results are often a product of connecting the diverse and distributed.
+I help organizations deliver high-quality software efficiently by taking radical ownership, empowering peers, and leveraging modern practices. As a hands-on technical leader, I work across the organizational spectrum—advising on strategy, engaging stakeholders, and tackling the toughest engineering challenges. I believe the best results come from connecting people, technologies, and ideas.
 
-Code, organizational archaeology, keeping it light, and eagerness to dive deep are my sharpest tools for moving any department in the direction of happiness, sustainability, and operational excellence.
+Organizational archaeology, a laser-focus on business problems, and a light touch are my sharpest tools for steering departments toward happiness, sustainability, and high performance.
 
-I’m adaptive to the situation but generally biased toward...
-* Doing over analyzing - Production-quality deliverables are the goal. I analyze the problem-space but dive in readily to produce an iterable minimum viable product and gain better domain understanding.
-* Showing over telling - If a picture is worth a thousand words, a demo speaks volumes.
-* People over technology - New, shiny, beta technology is a great distraction. I aim to be pragmatic, advising on what I would want to own long-term if I were in a client’s shoes. Understanding the customer, team, and core problems should drive technology decisions.
-* Communicating in multiple mediums - code, talks, docs, diagrams, decision trees, and slide decks. Ideas are only as useful as one’s ability to communicate them effectively.
+I’m adaptive but generally biased toward…
+
+•	Doing over analyzing: I dive in to produce minimum viable products, gaining domain understanding while aiming for production-quality deliverables.
+•	Showing over telling: A demo speaks volumes.
+•	People over technology: I focus on pragmatic solutions and long-term ownership, advising based on the business and team needs rather than the flashiest tech.
+•	Communicating in multiple mediums: Code, talks, docs, diagrams, and presentations — ideas are only as impactful as they are effectively communicated.
